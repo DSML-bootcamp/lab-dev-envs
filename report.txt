@@ -1,0 +1,13 @@
+Report for Alexandre
+
+### Process
+
+Since the lab was unclear, i had the gatekeeper create a repo and invite me. I then forked it, cloned it and changed some files. 
+I then pushed to my repo and started a pull request, which the gatekeeper accepted.
+
+We did the same but with me as the gatekeeper, in reverse.
+
+### Challenges faced and how to overcome them
+
+Understanding who had to create the git repository since we cant pull request our own. The lab asks to git push -u origin main but this adds the code to the main branch, meaning the job of the gatekeeper becomes useless.
+We overcame this by having the gatekeeper create the repo and the developer fork it.
