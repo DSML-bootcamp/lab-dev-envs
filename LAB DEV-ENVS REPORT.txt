@@ -1,0 +1,20 @@
+LAB DEV-ENVS REPORT
+
+Developer role
+- the steps up to initialize git was ok
+- the only turnaround was when I had to push to 'main' branch as my repository was in the 'master' branch. To solve that I had to create a new branch by running the code:
+
+''
+$ git checkout -b main
+$ git push u- origin main
+''
+
+- to be able to create a pull request I had to create a new branch called "new-feature-branch":
+
+''
+$ git add main.py
+$ git commit -m 'new feature'
+$ git push -u origin new-feature-branch
+''
+
+- last step was going to github and creating the pull request: https://github.com/linamps/projectx_dev/pull/1
