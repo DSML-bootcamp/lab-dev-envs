@@ -125,3 +125,4 @@ This section is for outlining steps for configuring development environment with
 
 # Important #
 Do not forget to stop the EC2 instance if not in use.
+![alt text](image.png)
